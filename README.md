@@ -87,6 +87,13 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/faster-rcnn-object-detection-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Brain MRI Segmentation with PyTorch and Unet</td>
+    <td>Computer Vision</td>
+   <td><a href="https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/14" target="_blank" rel="noreferrer">Image Segmentation</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/brain-mri-segmentation-with-pytorch-and-u-net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
