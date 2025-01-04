@@ -1,7 +1,5 @@
 <h1 align="left">Deep Learning Models</h1>
-<hr />
 <h4 align="left">Deep Learning Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
-<hr />
 
 <h3 align="left">For More Information:</h3>
 <p align="left">
