@@ -3,9 +3,11 @@
 
  <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Title</th>
+    <th>Categoris</th>
+    <th>Dataset</th>
+   <th>Description</th>
+   <th>Notebooks</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
