@@ -21,7 +21,7 @@
     <td>Time series</td>
    <td><a href="" target="_blank" rel="noreferrer"></a></td>
    <td><a href="https://omidsakaki.ir/projects/3" target="_blank" rel="noreferrer">Deep Learning</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/EUR_USD_final.ipynb" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos](https://svgmix.com/item/yKRBVM/yolo)/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/EUR_USD_final.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Persian Fake News</td>
