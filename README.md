@@ -108,6 +108,13 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/handwritten-persian-numerals-dcgans-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Image Caption Generator</td>
+    <td>Computer Vision & NLP</td>
+   <td><a href="https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/17" target="_blank" rel="noreferrer">Image to Text</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/image-caption-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
