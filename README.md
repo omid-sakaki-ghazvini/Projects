@@ -10,9 +10,9 @@
    <th>Notebooks</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Alzheimer_prj.ipynb</td>
+    <td>Building a Recommender System with PyTorch</td>
+    <td>Classification_with_FineTuning_BERT</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
