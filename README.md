@@ -16,6 +16,13 @@
    <td><a href="https://omidsakaki.ir/projects/1" target="_blank" rel="noreferrer">Description</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Building a Recommender System with Collaborative filtering</td>
+    <td>NLP</td>
+   <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/21" target="_blank" rel="noreferrer">Description</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building%20a%20Recommender%20System%20with%20PyTorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 
