@@ -21,7 +21,7 @@
     <td>Time series</td>
    <td><a href="" target="_blank" rel="noreferrer"></a></td>
    <td><a href="https://omidsakaki.ir/projects/3" target="_blank" rel="noreferrer">Deep Learning</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/EUR_USD_final.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/EUR_USD_final.ipynb" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos](https://svgmix.com/item/yKRBVM/yolo)/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Persian Fake News</td>
@@ -35,7 +35,7 @@
     <td>Computer Vision</td>
    <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/persian-car-plate" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/5" target="_blank" rel="noreferrer">Object Detection</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plate.ipynb" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/item/yKRBVM/yolo" alt="yolov8" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plate.ipynb" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/OsYb6orOaOVV/yolo" alt="yolov8" width="40" height="40"/> </a></td>
   </tr>
    <tr>
     <td>Text Classification with Fine Tuning BERT</td>
