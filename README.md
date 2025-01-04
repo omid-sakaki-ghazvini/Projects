@@ -35,7 +35,7 @@
     <td>Computer Vision</td>
    <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/persian-car-plate" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/5" target="_blank" rel="noreferrer">Object Detection</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plate.ipynb" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/i/yKRBVM" alt="yolov8" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plate.ipynb" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/item/yKRBVM/yolo" alt="yolov8" width="40" height="40"/> </a></td>
   </tr>
    <tr>
     <td>Text Classification with Fine Tuning BERT</td>
