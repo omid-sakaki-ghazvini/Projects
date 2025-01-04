@@ -73,6 +73,13 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/multi-domain-sentiment-analysis.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Fashion Mnist with PyTorch</td>
+    <td>Computer Vision</td>
+   <td><a href="https://www.kaggle.com/datasets/joyceww/fashionmnist" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/12" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/fashion-mnist-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
