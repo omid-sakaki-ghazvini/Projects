@@ -51,7 +51,6 @@
    <td><a href="https://omidsakaki.ir/projects/7" target="_blank" rel="noreferrer">Object Detection</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plates_digits_.ipynb" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/OsYb6orOaOVV/yolo" alt="yolov8" width="40" height="40"/> </a></td>
   </tr>
-  <tr>
    <tr>
     <td>Gender and Age Prediction</td>
     <td>Computer Vision</td>
