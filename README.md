@@ -10,16 +10,13 @@
    <th>Notebooks</th>
   </tr>
   <tr>
-    <td>Alzheimer_prj.ipynb</td>
-    <td>Building a Recommender System with PyTorch</td>
-    <td>Classification_with_FineTuning_BERT</td>
+    <td>Alzheimer Classification</td>
+    <td>Computer Vision</td>
+    <td>[Dataset](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset)</td>
+   <td>https://omidsakaki.ir/projects/1</td>
+   <td>[Description](https://omidsakaki.ir/projects/1)</td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table> 
 
 <h3 align="left">For More Information:</h3>
 <p align="left">
