@@ -129,6 +129,13 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/image-caption-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Smart Search with NLP</td>
+    <td>Recommender System</td>
+   <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/22" target="_blank" rel="noreferrer">HuggingFace Transformer</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/smart-search-with-nlp.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
@@ -137,7 +144,7 @@
   </tr>
  </table>
  </p>
-
+<hr />
 <h3 align="left">For More Information:</h3>
 <p align="left">
   <h2 align="left">
