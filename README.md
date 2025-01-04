@@ -17,13 +17,6 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td>Text Classification with Fine Tuning BERT</td>
-    <td>NLP</td>
-   <td><a href="https://www.kaggle.com/datasets/jagathratchakan/indian-airlines-customer-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
-   <td><a href="https://omidsakaki.ir/projects/6" target="_blank" rel="noreferrer">Text Classification</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Classification_with_FineTuning_BERT.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
-  </tr>
-  <tr>
     <td>EUR and USD Forecasting</td>
     <td>Time series</td>
    <td><a href="" target="_blank" rel="noreferrer"></a></td>
@@ -36,6 +29,20 @@
    <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/persian-fake-corona-news" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/4" target="_blank" rel="noreferrer">Text Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Persian_Fake_News.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
+   <tr>
+    <td>Persian Car Plate Detection with YoloV8</td>
+    <td>Computer Vision</td>
+   <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/persian-car-plate" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/5" target="_blank" rel="noreferrer">Object Detection</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/persian_car_plate.ipynb" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/i/yKRBVM" alt="yolov8" width="40" height="40"/> </a></td>
+  </tr>
+   <tr>
+    <td>Text Classification with Fine Tuning BERT</td>
+    <td>NLP</td>
+   <td><a href="https://www.kaggle.com/datasets/jagathratchakan/indian-airlines-customer-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/6" target="_blank" rel="noreferrer">Text Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Classification_with_FineTuning_BERT.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
