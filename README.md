@@ -1,6 +1,24 @@
 <h1 align="left">Deep Learning Models</h1>
 <h4 align="left">Deep Learning Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
 
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
+
 <h3 align="left">For More Information:</h3>
 <p align="left">
   <h2 align="left">
