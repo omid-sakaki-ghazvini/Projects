@@ -31,6 +31,13 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/EUR_USD_final.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Persian Fake News</td>
+    <td>NLP</td>
+   <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/persian-fake-corona-news" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/4" target="_blank" rel="noreferrer">Text Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Persian_Fake_News.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
