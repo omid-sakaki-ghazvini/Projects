@@ -118,15 +118,22 @@
     <td>Chatbot with Open-Source LLMs using Python and HuggingFace</td>
     <td>NLP</td>
    <td><a href="" target="_blank" rel="noreferrer"></a></td>
-   <td><a href="https://omidsakaki.ir/projects/17" target="_blank" rel="noreferrer">LLM</a></td>
+   <td><a href="https://omidsakaki.ir/projects/18" target="_blank" rel="noreferrer">LLM</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/simple_persian_chatbot.ipynb" target="_blank" rel="noreferrer"> HuggingFace </a></td>
+  </tr>
+  <tr>
+    <td>Fine Tuning a NLP Model for Persian Question Answering and Building Custom QA Bot </td>
+    <td>NLP</td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Fine-tuning-a-NLP-model-for-persian-question-answering-and-Building-Custom-Question-Answering-Bot/tree/master/data" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/20" target="_blank" rel="noreferrer">Fine Tuning LLM Model</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/image-caption-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Building a Recommender System with Collaborative filtering</td>
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/21" target="_blank" rel="noreferrer">Deep Learning</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building%20a%20Recommender%20System%20with%20PyTorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Fine-tuning-a-NLP-model-for-persian-question-answering-and-Building-Custom-Question-Answering-Bot/blob/master/persian_question_answering_model_tuned.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>
