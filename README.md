@@ -146,7 +146,7 @@
     <td>Background Removal with U2Net</td>
     <td>Computer Vision</td>
    <td><a href="https://www.kaggle.com/datasets/rahulbhalley/p3m-10k" target="_blank" rel="noreferrer">Dataset</a></td>
-   <td><a href="https://omidsakaki.ir/projects/22" target="_blank" rel="noreferrer">Remove Background Image</a></td>
+   <td><a href="https://omidsakaki.ir/projects/23" target="_blank" rel="noreferrer">Remove Background Image</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/background-removal-with-u2net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
   </tr>
  </table>
