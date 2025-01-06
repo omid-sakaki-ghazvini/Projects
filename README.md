@@ -126,7 +126,7 @@
     <td>NLP</td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Fine-tuning-a-NLP-model-for-persian-question-answering-and-Building-Custom-Question-Answering-Bot/tree/master/data" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/20" target="_blank" rel="noreferrer">Fine Tuning LLM Model</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/image-caption-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Fine-tuning-a-NLP-model-for-persian-question-answering-and-Building-Custom-Question-Answering-Bot/blob/master/persian_question_answering_model_tuned.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Smart Search with NLP</td>
