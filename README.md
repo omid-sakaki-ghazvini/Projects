@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>Alzheimer Classification</td>
-    <td>#Computer_Vision</td>
+    <td>Computer Vision</td>
    <td><a href="https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/1" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
