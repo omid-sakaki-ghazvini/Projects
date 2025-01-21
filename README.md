@@ -149,6 +149,13 @@
    <td><a href="https://omidsakaki.ir/projects/23" target="_blank" rel="noreferrer">Remove Background Image</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/background-removal-with-u2net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Building a RAG system with Langchain and HuggingFace</td>
+    <td>NLP</td>
+   <td><a href="" rel="noreferrer"></a></td>
+   <td><a href="https://omidsakaki.ir/projects/24" target="_blank" rel="noreferrer">Langchain and HuggingFace</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_a_RAG_system_with_Langchain_and_Hugging_Face.ipynb" target="_blank" rel="noreferrer"> <img  alt="Langchain"  width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
