@@ -164,6 +164,13 @@
    <td><a href="https://omidsakaki.ir/projects/24" target="_blank" rel="noreferrer">Langchain and HuggingFace</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_a_RAG_system_with_Langchain_and_Hugging_Face.ipynb" target="_blank" rel="noreferrer"> <img  alt="Langchain"  width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Deep Reinforcement Learning for Trading</td>
+    <td>Recommender System</td>
+   <td><a href="https://www.kaggle.com/datasets/omidsakaki1370/euro-and-dollar-currency" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/26" target="_blank" rel="noreferrer">Deep Reinforcement Learning</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/deep-reinforcement-learning-for-trading.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
