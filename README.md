@@ -183,14 +183,21 @@
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/abdullah0a/world-happiness-data-2024-explore-life" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/27" target="_blank" rel="noreferrer">Machine Learning</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_Recommender_systems_with_Gaussian_Mixture_Model_and_KMeans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_Recommender_systems_with_Gaussian_Mixture_Model_and_KMeans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Machine Translation with Simple Self-Attention</td>
     <td>NLP</td>
-   <td><a href="" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="" target="_blank" rel="noreferrer"></a></td>
    <td><a href="https://omidsakaki.ir/projects/31" target="_blank" rel="noreferrer">Machine Translation</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/machine-translation-with-simple-self-attention.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td>Course Recommendation System Using Clustering and Sentence Transformation Models</td>
+    <td>Recommender System</td>
+   <td><a href="https://www.kaggle.com/datasets/patrickgendotti/udacity-course-catalog" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/28" target="_blank" rel="noreferrer">NLP & Machine Learning</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Course_Recommendation_System_Using_Clustering_and_Sentence_Transformation_Models.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>
