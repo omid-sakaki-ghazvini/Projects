@@ -171,6 +171,13 @@
    <td><a href="https://omidsakaki.ir/projects/26" target="_blank" rel="noreferrer">Deep Reinforcement Learning (Deep Q-Network)</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/deep-reinforcement-learning-for-trading.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+   <tr>
+    <td>Generative AI Face Image DCGANs and CycleGans</td>
+    <td>Computer Vision</td>
+   <td><a href="https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/29" target="_blank" rel="noreferrer">Image Generation</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/generative-ai-face-image-dcgans-cyclegans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
