@@ -183,7 +183,7 @@
     <td>Recommender System</td>
    <td><a href="https://www.kaggle.com/datasets/abdullah0a/world-happiness-data-2024-explore-life" target="_blank" rel="noreferrer">Dataset</a></td>
    <td><a href="https://omidsakaki.ir/projects/27" target="_blank" rel="noreferrer">Machine Learning</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_Recommender_systems_with_Gaussian_Mixture_Model_and_KMeans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Building_Recommender_systems_with_Gaussian_Mixture_Model_and_KMeans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>
