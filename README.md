@@ -199,6 +199,13 @@
    <td><a href="https://omidsakaki.ir/projects/28" target="_blank" rel="noreferrer">NLP & Machine Learning</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Course_Recommendation_System_Using_Clustering_and_Sentence_Transformation_Models.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Pretrained Models for Tyre Quality Classification</td>
+    <td>Computer Vision</td>
+   <td><a href="https://www.kaggle.com/datasets/warcoder/tyre-quality-classification" target="_blank" rel="noreferrer">Dataset</a></td>
+   <td><a href="https://omidsakaki.ir/projects/30" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/pretrained-models-for-tire-quality-classification.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
