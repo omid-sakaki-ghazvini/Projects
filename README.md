@@ -1,5 +1,5 @@
-<h1 align="left">Deep Learning Models</h1>
-<h4 align="left">Deep Learning Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
+<h1 align="left">Artificial intelligence Projects</h1>
+<h4 align="left">Artificial intelligence Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
 <p align="left">
  <table>
   <tr>
