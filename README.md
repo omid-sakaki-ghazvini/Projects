@@ -1,5 +1,5 @@
-<h1 align="left">Artificial ]ntelligence Projects</h1>
-<h4 align="left">Artificial ]ntelligence Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
+<h1 align="left">Artificial Intelligence Projects</h1>
+<h4 align="left">Artificial Intelligence Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
 <p align="left">
  <table>
   <tr>
